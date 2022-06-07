@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Avengers - Infinite War",
+        "date": "2018",
+        "actors": ["Robert Downey jr", "Chris Hemsworth", "Mark Ruffalo"],
+        "poster": "images/infinte.jpg",
+        "rating": 5
+    },
+    {
+        "name": "The Matrix",
+        "date": "1999",
+        "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+        "poster": "images/matrix.jpg",
+        "rating": 4.8
+    },
+    {
+        "name": "Star Wars - Rogue One",
+        "date": "2016",
+        "actors": ["Not Yoda", "Skywalker", "Felicity Jones"],
+        "poster": "images/rogue.jpg",
+        "rating": 4.5
+    }
+
+
+
+
+]
