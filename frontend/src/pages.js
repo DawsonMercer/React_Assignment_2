@@ -27,14 +27,13 @@ export function Navigation(){
     return(
         <>
         <nav>
-
         <Navbar bg="light" variant="light">
             <Container>
                 <Navbar.Brand href="#home"><h1>Dawson's React App</h1></Navbar.Brand>
                 <Nav className="me-auto">
-                    <Nav.Link to="/">Home</Nav.Link><br></br>&nbsp; 
-                    <Nav.Link to="/formfunction">Form</Nav.Link><br></br>&nbsp; 
-                    <Nav.Link to="/reviews">Reviews</Nav.Link>
+                    <Nav.Link href="/">Home</Nav.Link><br></br>&nbsp; 
+                    <Nav.Link href="formfunction">Form</Nav.Link><br></br>&nbsp; 
+                    <Nav.Link href="reviews">Reviews</Nav.Link>
                 </Nav>
                 </Container>
         </Navbar>
